@@ -1,0 +1,24 @@
+.heroContainer {
+  width: 100%
+}
+
+.heroGrid {
+  display: flex;
+  column-gap:10px;
+}
+
+.heroImage {
+  width: 33.3%;
+}
+
+.heroImageLeft {
+
+}
+
+.heroImageCenter {
+
+}
+
+.heroImageRight {
+
+}
